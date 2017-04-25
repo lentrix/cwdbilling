@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rates>
+    <minimum>132.00</minimum>
+    <rate>
+        <from>11</from>
+        <to>20</to>
+        <percubic>14.00</percubic>
+    </rate>
+    <rate>
+        <from>21</from>
+        <to>30</to>
+        <percubic>14.85</percubic>
+    </rate>
+    <rate>
+        <from>31</from>
+        <to>40</to>
+        <percubic>16</percubic>
+    </rate>
+    <rate>
+        <from>41</from>
+        <to>999999</to>
+        <percubic>17.25</percubic>
+    </rate>
+</rates>
