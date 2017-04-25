@@ -1,0 +1,4 @@
+- Add settled field to the billing table
+- Dropp discount field from billing table
+- Add due date field in billing table
+
